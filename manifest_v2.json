@@ -50,6 +50,18 @@
     "xmb10p": {
       "version": "1.0.0",
       "file_name": "downloads/10p「归序」- 相册-xmb10p.bin"
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「归序」- 相册-xmb11.bin"
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「归序」- 相册-xmb11nfc.bin"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/9p「归序」- 相册-xmb9p.bin"
     }
   },
   "ext": {
